@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: #1C1C1C;
+; 
+}
+
+.btn {
+    color: white;
+    background: #10B981;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container1 {
+    background-color: #1F2937;
+    margin: 20px 20px;
+    padding: 50px 50px 200px 50px
+
+}
+
+.pass {
+    display: flex;
+    border-top: 2px solid #273549;
+    height: 0px;
+    justify-content: space-between;
+    left: 52px;
+    margin-top: 35px;
+    top: 361px;
+    width: 800px;
+}
+
+.password {
+    background: #273549;
+    border-radius: 8px;
+    color:#55F991;
+    font-size: 22px;
+    font-weight: 100;
+    height: 50px;
+    letter-spacing: 0.1rem;
+    /* margin-left: 40px; */
+    /* margin-right: 20px; */
+    padding-top: 10px;
+    text-align: center;
+    width: 375px;
+}
